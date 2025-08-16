@@ -20,7 +20,7 @@ Make sure you have **Python 3.8+** installed. Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
-git clone https://github.com/your-username/movie-recommender.git
+git clone https://github.com/skr42/Movie-Recommendation-System.git
 cd movie-recommender
 
 pip install -r requirements.txt
